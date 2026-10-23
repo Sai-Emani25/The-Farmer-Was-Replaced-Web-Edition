@@ -1,0 +1,6 @@
+{
+  "name": "The Farmer Was Replaced - Web Edition",
+  "description": "1-to-1 web remake of The Farmer Was Replaced: program and automate a 3D farming drone with Python-like code, research upgrades, and harvest crops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
